@@ -13,14 +13,15 @@
       "backgroundColor": "#000000"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sigmaalpha.Manhunt"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#000000"
       },
-      "package": "com.sigmaalpha.manhunt"
+      "package": "com.sigmaalpha.Manhunt"
     },
     "web": {
       "bundler": "metro",
