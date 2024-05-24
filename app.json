@@ -9,18 +9,25 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sigmaalpha.Manhunt"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#000000"
       },
-      "package": "com.sigmaalpha.manhunt"
+      "package": "com.sigmaalpha.Manhunt"
+    },
+    "androidNavigationBar": {
+      "visible": "sticky-immersive"
+    },
+    "androidStatusBar": {
+      "visible": "sticky-immersive"
     },
     "web": {
       "bundler": "metro",
