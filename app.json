@@ -23,9 +23,6 @@
       },
       "package": "com.sigmaalpha.Manhunt"
     },
-    "androidNavigationBar": {
-      "visible": "sticky-immersive"
-    },
     "androidStatusBar": {
       "visible": "sticky-immersive"
     },
