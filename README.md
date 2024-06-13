@@ -12,7 +12,7 @@ An Expo/React Native app developed by Louis Pate and Kevin Shang for the brother
 2. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
 In the output, you'll find options to open the app in a
