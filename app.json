@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "manhunt",
-    "slug": "manhunt",
+    "name": "Manhunt",
+    "slug": "Manhunt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
